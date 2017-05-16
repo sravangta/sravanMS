@@ -27,7 +27,7 @@
         LASTEDIT: May 13, 2015 
 #> 
  
-workflow Start-AzureVMs 
+workflow RunbookStartVM 
 { 
      
     $ResourceGroupName = 'VMAutomationGroup'
